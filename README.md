@@ -39,7 +39,10 @@ Our website is built using the **Woostify** theme, which provides a clean, respo
 
 - These are some screenshots
 
-  
+<img src="https://github.com/ShantanuKH/ShopEase/blob/main/public/Home.png" alt="Home" width="400"/>                  <img src="https://github.com/ShantanuKH/ShopEase/blob/main/public/CART.png" alt="Cart" width="400"/>
+
+
+ 
 
 # Temporary Website Downtime
 
